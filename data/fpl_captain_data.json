@@ -1,0 +1,4934 @@
+[
+    {
+        "Player": "Calafiori",
+        "Predicted Points": "3.3",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "1%",
+        "Assist Odds": "6%",
+        "Goal Odds": "9%",
+        "Anytime Return": "15%"
+    },
+    {
+        "Player": "G.Jesus",
+        "Predicted Points": "3.4",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "7%",
+        "Assist Odds": "19%",
+        "Goal Odds": "35%",
+        "Anytime Return": "47%"
+    },
+    {
+        "Player": "Gabriel",
+        "Predicted Points": "3.5",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "29%",
+        "Assist Odds": "7%",
+        "Goal Odds": "11%",
+        "Anytime Return": "17%"
+    },
+    {
+        "Player": "Havertz",
+        "Predicted Points": "3.3",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "10%",
+        "Assist Odds": "18%",
+        "Goal Odds": "33%",
+        "Anytime Return": "45%"
+    },
+    {
+        "Player": "J.Timber",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "8%",
+        "Assist Odds": "7%",
+        "Goal Odds": "8%",
+        "Anytime Return": "14%"
+    },
+    {
+        "Player": "Jorginho",
+        "Predicted Points": "0.6",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "8%",
+        "Goal Odds": "12%",
+        "Anytime Return": "19%"
+    },
+    {
+        "Player": "Kiwior",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "8%",
+        "Anytime Return": "13%"
+    },
+    {
+        "Player": "Lewis-Skelly",
+        "Predicted Points": "2.2",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "9%",
+        "Goal Odds": "11%",
+        "Anytime Return": "20%"
+    },
+    {
+        "Player": "Martinelli",
+        "Predicted Points": "4.1",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "4%",
+        "Assist Odds": "19%",
+        "Goal Odds": "29%",
+        "Anytime Return": "43%"
+    },
+    {
+        "Player": "Merino",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "10%",
+        "Goal Odds": "14%",
+        "Anytime Return": "23%"
+    },
+    {
+        "Player": "Neto",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Nwaneri",
+        "Predicted Points": "0.8",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "14%",
+        "Goal Odds": "20%",
+        "Anytime Return": "32%"
+    },
+    {
+        "Player": "Odegaard",
+        "Predicted Points": "4.1",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "7%",
+        "Assist Odds": "22%",
+        "Goal Odds": "27%",
+        "Anytime Return": "43%"
+    },
+    {
+        "Player": "Oulad M'hand",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Raya",
+        "Predicted Points": "3.7",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "31%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Rice",
+        "Predicted Points": "2.5",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "3%",
+        "Assist Odds": "8%",
+        "Goal Odds": "12%",
+        "Anytime Return": "19%"
+    },
+    {
+        "Player": "Saka",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "12%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Saliba",
+        "Predicted Points": "3.1",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "30%",
+        "Assist Odds": "5%",
+        "Goal Odds": "8%",
+        "Anytime Return": "13%"
+    },
+    {
+        "Player": "Setford",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Sterling",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Thomas",
+        "Predicted Points": "2.1",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "1%",
+        "Assist Odds": "7%",
+        "Goal Odds": "9%",
+        "Anytime Return": "16%"
+    },
+    {
+        "Player": "Tierney",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Tomiyasu",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Trossard",
+        "Predicted Points": "4.2",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "2%",
+        "Assist Odds": "23%",
+        "Goal Odds": "30%",
+        "Anytime Return": "45%"
+    },
+    {
+        "Player": "White",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "2%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Zinchenko",
+        "Predicted Points": "1.5",
+        "Next Fixture": "Brighton (a)",
+        "Pick %": "1%",
+        "Assist Odds": "9%",
+        "Goal Odds": "9%",
+        "Anytime Return": "17%"
+    },
+    {
+        "Player": "Bailey",
+        "Predicted Points": "4.4",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "1%",
+        "Assist Odds": "30%",
+        "Goal Odds": "34%",
+        "Anytime Return": "54%"
+    },
+    {
+        "Player": "Barkley",
+        "Predicted Points": "2.0",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "0%",
+        "Assist Odds": "19%",
+        "Goal Odds": "25%",
+        "Anytime Return": "39%"
+    },
+    {
+        "Player": "Bogarde",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Buendia",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Cash",
+        "Predicted Points": "4.7",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "1%",
+        "Assist Odds": "11%",
+        "Goal Odds": "16%",
+        "Anytime Return": "25%"
+    },
+    {
+        "Player": "Diego Carlos",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "0%",
+        "Assist Odds": "7%",
+        "Goal Odds": "10%",
+        "Anytime Return": "16%"
+    },
+    {
+        "Player": "Digne",
+        "Predicted Points": "3.4",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "8%",
+        "Assist Odds": "14%",
+        "Goal Odds": "10%",
+        "Anytime Return": "23%"
+    },
+    {
+        "Player": "Duran",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "3%",
+        "Assist Odds": "15%",
+        "Goal Odds": "39%",
+        "Anytime Return": "47%"
+    },
+    {
+        "Player": "Gauci",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Hause",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Jaden",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Kamara",
+        "Predicted Points": "2.5",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "0%",
+        "Assist Odds": "7%",
+        "Goal Odds": "11%",
+        "Anytime Return": "17%"
+    },
+    {
+        "Player": "Konsa",
+        "Predicted Points": "3.9",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "7%",
+        "Assist Odds": "6%",
+        "Goal Odds": "8%",
+        "Anytime Return": "13%"
+    },
+    {
+        "Player": "Maatsen",
+        "Predicted Points": "1.6",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "1%",
+        "Assist Odds": "12%",
+        "Goal Odds": "14%",
+        "Anytime Return": "25%"
+    },
+    {
+        "Player": "Martinez",
+        "Predicted Points": "4.2",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "12%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "McGinn",
+        "Predicted Points": "4.5",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "1%",
+        "Assist Odds": "19%",
+        "Goal Odds": "25%",
+        "Anytime Return": "39%"
+    },
+    {
+        "Player": "Mings",
+        "Predicted Points": "4.0",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "0%",
+        "Assist Odds": "6%",
+        "Goal Odds": "9%",
+        "Anytime Return": "14%"
+    },
+    {
+        "Player": "Nedeljkovic",
+        "Predicted Points": "0.7",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Olsen",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Onana",
+        "Predicted Points": "3.6",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "3%",
+        "Assist Odds": "15%",
+        "Goal Odds": "21%",
+        "Anytime Return": "32%"
+    },
+    {
+        "Player": "Pau",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "1%",
+        "Assist Odds": "6%",
+        "Goal Odds": "10%",
+        "Anytime Return": "16%"
+    },
+    {
+        "Player": "Ramsey",
+        "Predicted Points": "3.0",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "0%",
+        "Assist Odds": "18%",
+        "Goal Odds": "25%",
+        "Anytime Return": "39%"
+    },
+    {
+        "Player": "Rogers",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "24%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Swinkels",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Tielemans",
+        "Predicted Points": "3.5",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "1%",
+        "Assist Odds": "11%",
+        "Goal Odds": "17%",
+        "Anytime Return": "26%"
+    },
+    {
+        "Player": "Watkins",
+        "Predicted Points": "6.4",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "16%",
+        "Assist Odds": "32%",
+        "Goal Odds": "52%",
+        "Anytime Return": "68%"
+    },
+    {
+        "Player": "Zych",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Leicester (H)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Aarons",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "7%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Adams",
+        "Predicted Points": "1.2",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "0%",
+        "Assist Odds": "8%",
+        "Goal Odds": "9%",
+        "Anytime Return": "16%"
+    },
+    {
+        "Player": "Arrizabalaga",
+        "Predicted Points": "3.9",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "2%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Brooks",
+        "Predicted Points": "1.6",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "0%",
+        "Assist Odds": "23%",
+        "Goal Odds": "28%",
+        "Anytime Return": "44%"
+    },
+    {
+        "Player": "Christie",
+        "Predicted Points": "3.0",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "0%",
+        "Assist Odds": "12%",
+        "Goal Odds": "17%",
+        "Anytime Return": "27%"
+    },
+    {
+        "Player": "Cook",
+        "Predicted Points": "2.4",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "0%",
+        "Assist Odds": "7%",
+        "Goal Odds": "9%",
+        "Anytime Return": "16%"
+    },
+    {
+        "Player": "Dennis",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Enes Unal",
+        "Predicted Points": "1.4",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "0%",
+        "Assist Odds": "20%",
+        "Goal Odds": "33%",
+        "Anytime Return": "47%"
+    },
+    {
+        "Player": "Evanilson",
+        "Predicted Points": "4.0",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "3%",
+        "Assist Odds": "18%",
+        "Goal Odds": "38%",
+        "Anytime Return": "49%"
+    },
+    {
+        "Player": "Hill",
+        "Predicted Points": "2.2",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "7%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Huijsen",
+        "Predicted Points": "3.4",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "3%",
+        "Assist Odds": "7%",
+        "Goal Odds": "9%",
+        "Anytime Return": "15%"
+    },
+    {
+        "Player": "J.Araujo",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Kerkez",
+        "Predicted Points": "3.3",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "7%",
+        "Assist Odds": "5%",
+        "Goal Odds": "7%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Kluivert",
+        "Predicted Points": "4.1",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "4%",
+        "Assist Odds": "19%",
+        "Goal Odds": "28%",
+        "Anytime Return": "42%"
+    },
+    {
+        "Player": "O.Dango",
+        "Predicted Points": "3.2",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "0%",
+        "Assist Odds": "15%",
+        "Goal Odds": "25%",
+        "Anytime Return": "36%"
+    },
+    {
+        "Player": "Philip",
+        "Predicted Points": "1.0",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "0%",
+        "Assist Odds": "18%",
+        "Goal Odds": "25%",
+        "Anytime Return": "39%"
+    },
+    {
+        "Player": "Scott",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Semenyo",
+        "Predicted Points": "4.7",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "7%",
+        "Assist Odds": "18%",
+        "Goal Odds": "31%",
+        "Anytime Return": "44%"
+    },
+    {
+        "Player": "Senesi",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Sinisterra",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Smith",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Tavernier",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Travers",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Zabarnyi",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Everton (H)",
+        "Pick %": "0%",
+        "Assist Odds": "4%",
+        "Goal Odds": "7%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Ajer",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Brierley",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Carvalho",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "1%",
+        "Assist Odds": "14%",
+        "Goal Odds": "22%",
+        "Anytime Return": "33%"
+    },
+    {
+        "Player": "Collins",
+        "Predicted Points": "2.6",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "2%",
+        "Assist Odds": "5%",
+        "Goal Odds": "7%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Damsgaard",
+        "Predicted Points": "3.2",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "1%",
+        "Assist Odds": "13%",
+        "Goal Odds": "14%",
+        "Anytime Return": "26%"
+    },
+    {
+        "Player": "Dasilva",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Flekken",
+        "Predicted Points": "3.2",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "9%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "G.Nunes",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Henry",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Hickey",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Janelt",
+        "Predicted Points": "2.6",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "7%",
+        "Goal Odds": "9%",
+        "Anytime Return": "15%"
+    },
+    {
+        "Player": "Jensen",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Ji-soo",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Konak",
+        "Predicted Points": "0.3",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "7%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Lewis-Potter",
+        "Predicted Points": "2.9",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "9%",
+        "Goal Odds": "14%",
+        "Anytime Return": "22%"
+    },
+    {
+        "Player": "Mbeumo",
+        "Predicted Points": "4.6",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "29%",
+        "Assist Odds": "18%",
+        "Goal Odds": "31%",
+        "Anytime Return": "43%"
+    },
+    {
+        "Player": "Mee",
+        "Predicted Points": "1.7",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "7%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Meghoma",
+        "Predicted Points": "0.2",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Norgaard",
+        "Predicted Points": "2.5",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "6%",
+        "Goal Odds": "8%",
+        "Anytime Return": "14%"
+    },
+    {
+        "Player": "Pinnock",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Roerslev",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "4%",
+        "Goal Odds": "5%",
+        "Anytime Return": "9%"
+    },
+    {
+        "Player": "Schade",
+        "Predicted Points": "2.8",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "1%",
+        "Assist Odds": "10%",
+        "Goal Odds": "22%",
+        "Anytime Return": "30%"
+    },
+    {
+        "Player": "Thiago",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Trevitt",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Valdimarsson",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "4%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Van den Berg",
+        "Predicted Points": "2.6",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "2%",
+        "Assist Odds": "5%",
+        "Goal Odds": "7%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Wissa",
+        "Predicted Points": "4.2",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "9%",
+        "Assist Odds": "20%",
+        "Goal Odds": "31%",
+        "Anytime Return": "45%"
+    },
+    {
+        "Player": "Yarmoliuk",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Southampton (a)",
+        "Pick %": "3%",
+        "Assist Odds": "8%",
+        "Goal Odds": "12%",
+        "Anytime Return": "19%"
+    },
+    {
+        "Player": "Adingra",
+        "Predicted Points": "1.9",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "0%",
+        "Assist Odds": "13%",
+        "Goal Odds": "18%",
+        "Anytime Return": "29%"
+    },
+    {
+        "Player": "Ayari",
+        "Predicted Points": "1.7",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "0%",
+        "Assist Odds": "7%",
+        "Goal Odds": "11%",
+        "Anytime Return": "17%"
+    },
+    {
+        "Player": "Baleba",
+        "Predicted Points": "2.0",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "0%",
+        "Assist Odds": "7%",
+        "Goal Odds": "10%",
+        "Anytime Return": "16%"
+    },
+    {
+        "Player": "Dunk",
+        "Predicted Points": "1.9",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "4%",
+        "Assist Odds": "4%",
+        "Goal Odds": "7%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Enciso",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "0%",
+        "Assist Odds": "11%",
+        "Goal Odds": "17%",
+        "Anytime Return": "26%"
+    },
+    {
+        "Player": "Estupinan",
+        "Predicted Points": "1.6",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "2%",
+        "Assist Odds": "9%",
+        "Goal Odds": "7%",
+        "Anytime Return": "16%"
+    },
+    {
+        "Player": "F.Kadioglu",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Ferguson",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "0%",
+        "Assist Odds": "11%",
+        "Goal Odds": "25%",
+        "Anytime Return": "34%"
+    },
+    {
+        "Player": "Georginio",
+        "Predicted Points": "2.0",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "1%",
+        "Assist Odds": "13%",
+        "Goal Odds": "21%",
+        "Anytime Return": "32%"
+    },
+    {
+        "Player": "Gruda",
+        "Predicted Points": "1.6",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "0%",
+        "Assist Odds": "9%",
+        "Goal Odds": "14%",
+        "Anytime Return": "22%"
+    },
+    {
+        "Player": "Hinshelwood",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Igor",
+        "Predicted Points": "0.7",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "0%",
+        "Assist Odds": "2%",
+        "Goal Odds": "4%",
+        "Anytime Return": "6%"
+    },
+    {
+        "Player": "Joao Pedro",
+        "Predicted Points": "3.8",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "16%",
+        "Assist Odds": "20%",
+        "Goal Odds": "27%",
+        "Anytime Return": "41%"
+    },
+    {
+        "Player": "Lamptey",
+        "Predicted Points": "0.8",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "0%",
+        "Assist Odds": "4%",
+        "Goal Odds": "5%",
+        "Anytime Return": "9%"
+    },
+    {
+        "Player": "March",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Milner",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Minteh",
+        "Predicted Points": "0.7",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "0%",
+        "Assist Odds": "12%",
+        "Goal Odds": "17%",
+        "Anytime Return": "27%"
+    },
+    {
+        "Player": "Mitoma",
+        "Predicted Points": "2.9",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "6%",
+        "Assist Odds": "11%",
+        "Goal Odds": "18%",
+        "Anytime Return": "28%"
+    },
+    {
+        "Player": "Moder",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "O'Riley",
+        "Predicted Points": "0.8",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Peupion",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Steele",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Van Hecke",
+        "Predicted Points": "1.7",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "1%",
+        "Assist Odds": "3%",
+        "Goal Odds": "4%",
+        "Anytime Return": "7%"
+    },
+    {
+        "Player": "Veltman",
+        "Predicted Points": "1.4",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "2%",
+        "Assist Odds": "4%",
+        "Goal Odds": "5%",
+        "Anytime Return": "9%"
+    },
+    {
+        "Player": "Verbruggen",
+        "Predicted Points": "2.8",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "3%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Webster",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Welbeck",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "7%",
+        "Assist Odds": "15%",
+        "Goal Odds": "25%",
+        "Anytime Return": "36%"
+    },
+    {
+        "Player": "Wieffer",
+        "Predicted Points": "0.8",
+        "Next Fixture": "Arsenal (H)",
+        "Pick %": "0%",
+        "Assist Odds": "6%",
+        "Goal Odds": "9%",
+        "Anytime Return": "14%"
+    },
+    {
+        "Player": "B.Badiashile",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Bergstrom",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Bettinelli",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Caicedo",
+        "Predicted Points": "2.9",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "1%",
+        "Assist Odds": "11%",
+        "Goal Odds": "12%",
+        "Anytime Return": "22%"
+    },
+    {
+        "Player": "Casadei",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Chilwell",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Chukwuemeka",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Colwill",
+        "Predicted Points": "2.9",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "5%",
+        "Assist Odds": "4%",
+        "Goal Odds": "7%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Cucurella",
+        "Predicted Points": "3.3",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "7%",
+        "Assist Odds": "12%",
+        "Goal Odds": "7%",
+        "Anytime Return": "18%"
+    },
+    {
+        "Player": "D.D.Fofana",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Deivid",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Dewsbury-Hall",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Disasi",
+        "Predicted Points": "1.7",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "8%",
+        "Anytime Return": "13%"
+    },
+    {
+        "Player": "Enzo",
+        "Predicted Points": "3.3",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "10%",
+        "Assist Odds": "12%",
+        "Goal Odds": "17%",
+        "Anytime Return": "27%"
+    },
+    {
+        "Player": "Gusto",
+        "Predicted Points": "2.6",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "2%",
+        "Assist Odds": "11%",
+        "Goal Odds": "8%",
+        "Anytime Return": "18%"
+    },
+    {
+        "Player": "James",
+        "Predicted Points": "0.8",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "0%",
+        "Assist Odds": "9%",
+        "Goal Odds": "13%",
+        "Anytime Return": "20%"
+    },
+    {
+        "Player": "Joao Felix",
+        "Predicted Points": "1.6",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "0%",
+        "Assist Odds": "18%",
+        "Goal Odds": "31%",
+        "Anytime Return": "43%"
+    },
+    {
+        "Player": "Jorgensen",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Kellyman",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Lavia",
+        "Predicted Points": "0.6",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "1%",
+        "Assist Odds": "9%",
+        "Goal Odds": "13%",
+        "Anytime Return": "20%"
+    },
+    {
+        "Player": "Madueke",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "6%",
+        "Assist Odds": "16%",
+        "Goal Odds": "23%",
+        "Anytime Return": "36%"
+    },
+    {
+        "Player": "Marc Guiu",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Mudryk",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "N.Jackson",
+        "Predicted Points": "2.9",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "27%",
+        "Assist Odds": "17%",
+        "Goal Odds": "36%",
+        "Anytime Return": "48%"
+    },
+    {
+        "Player": "Neto",
+        "Predicted Points": "3.0",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "1%",
+        "Assist Odds": "21%",
+        "Goal Odds": "27%",
+        "Anytime Return": "42%"
+    },
+    {
+        "Player": "Nkunku",
+        "Predicted Points": "2.3",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "2%",
+        "Assist Odds": "24%",
+        "Goal Odds": "35%",
+        "Anytime Return": "51%"
+    },
+    {
+        "Player": "Palmer",
+        "Predicted Points": "6.0",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "69%",
+        "Assist Odds": "25%",
+        "Goal Odds": "42%",
+        "Anytime Return": "56%"
+    },
+    {
+        "Player": "Renato Veiga",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Sanchez",
+        "Predicted Points": "3.6",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "14%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Sancho",
+        "Predicted Points": "3.2",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "1%",
+        "Assist Odds": "15%",
+        "Goal Odds": "25%",
+        "Anytime Return": "36%"
+    },
+    {
+        "Player": "Tosin",
+        "Predicted Points": "2.7",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "9%",
+        "Anytime Return": "13%"
+    },
+    {
+        "Player": "W.Fofana",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Crystal Palace (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Agbinone",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "C.Doucoure",
+        "Predicted Points": "1.6",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "C.Richards",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "0%",
+        "Assist Odds": "4%",
+        "Goal Odds": "6%",
+        "Anytime Return": "10%"
+    },
+    {
+        "Player": "Chadi Riad",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Chalobah",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "1%",
+        "Assist Odds": "6%",
+        "Goal Odds": "8%",
+        "Anytime Return": "14%"
+    },
+    {
+        "Player": "Clyne",
+        "Predicted Points": "0.4",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "5%",
+        "Anytime Return": "9%"
+    },
+    {
+        "Player": "Devenny",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Eze",
+        "Predicted Points": "4.2",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "8%",
+        "Assist Odds": "21%",
+        "Goal Odds": "25%",
+        "Anytime Return": "41%"
+    },
+    {
+        "Player": "Guehi",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "6%",
+        "Assist Odds": "4%",
+        "Goal Odds": "6%",
+        "Anytime Return": "10%"
+    },
+    {
+        "Player": "Henderson",
+        "Predicted Points": "2.8",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "12%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Holding",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Hughes",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "0%",
+        "Assist Odds": "11%",
+        "Goal Odds": "10%",
+        "Anytime Return": "20%"
+    },
+    {
+        "Player": "I.Sarr",
+        "Predicted Points": "3.9",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "5%",
+        "Assist Odds": "17%",
+        "Goal Odds": "23%",
+        "Anytime Return": "36%"
+    },
+    {
+        "Player": "Kamada",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "0%",
+        "Assist Odds": "11%",
+        "Goal Odds": "17%",
+        "Anytime Return": "26%"
+    },
+    {
+        "Player": "Lacroix",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "0%",
+        "Assist Odds": "4%",
+        "Goal Odds": "6%",
+        "Anytime Return": "10%"
+    },
+    {
+        "Player": "Lerma",
+        "Predicted Points": "2.6",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "0%",
+        "Assist Odds": "7%",
+        "Goal Odds": "10%",
+        "Anytime Return": "17%"
+    },
+    {
+        "Player": "M.Franca",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Mateta",
+        "Predicted Points": "3.4",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "3%",
+        "Assist Odds": "11%",
+        "Goal Odds": "31%",
+        "Anytime Return": "39%"
+    },
+    {
+        "Player": "Matthews",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Mitchell",
+        "Predicted Points": "1.9",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "2%",
+        "Assist Odds": "6%",
+        "Goal Odds": "5%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Munoz",
+        "Predicted Points": "2.5",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "5%",
+        "Assist Odds": "14%",
+        "Goal Odds": "11%",
+        "Anytime Return": "24%"
+    },
+    {
+        "Player": "Nketiah",
+        "Predicted Points": "0.8",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "0%",
+        "Assist Odds": "10%",
+        "Goal Odds": "27%",
+        "Anytime Return": "34%"
+    },
+    {
+        "Player": "Rodney",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Schlupp",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Turner",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "10%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Umeh-Chibueze",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Ward",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Wharton",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Chelsea (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "A.Doucoure",
+        "Predicted Points": "3.1",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "0%",
+        "Assist Odds": "10%",
+        "Goal Odds": "16%",
+        "Anytime Return": "24%"
+    },
+    {
+        "Player": "Armstrong",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Begovic",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Beto",
+        "Predicted Points": "0.3",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "0%",
+        "Assist Odds": "9%",
+        "Goal Odds": "18%",
+        "Anytime Return": "26%"
+    },
+    {
+        "Player": "Branthwaite",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "1%",
+        "Assist Odds": "3%",
+        "Goal Odds": "5%",
+        "Anytime Return": "8%"
+    },
+    {
+        "Player": "Broja",
+        "Predicted Points": "0.8",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "0%",
+        "Assist Odds": "16%",
+        "Goal Odds": "22%",
+        "Anytime Return": "35%"
+    },
+    {
+        "Player": "Calvert-Lewin",
+        "Predicted Points": "2.5",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "2%",
+        "Assist Odds": "8%",
+        "Goal Odds": "25%",
+        "Anytime Return": "31%"
+    },
+    {
+        "Player": "Coleman",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "0%",
+        "Assist Odds": "3%",
+        "Goal Odds": "4%",
+        "Anytime Return": "7%"
+    },
+    {
+        "Player": "Dixon",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Gana",
+        "Predicted Points": "2.4",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "8%",
+        "Anytime Return": "13%"
+    },
+    {
+        "Player": "Garner",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Harrison",
+        "Predicted Points": "2.5",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "0%",
+        "Assist Odds": "13%",
+        "Goal Odds": "16%",
+        "Anytime Return": "27%"
+    },
+    {
+        "Player": "Iroegbunam",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "J.Virginia",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Keane",
+        "Predicted Points": "0.4",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "5%",
+        "Assist Odds": "4%",
+        "Goal Odds": "6%",
+        "Anytime Return": "10%"
+    },
+    {
+        "Player": "Lindstrom",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "0%",
+        "Assist Odds": "13%",
+        "Goal Odds": "16%",
+        "Anytime Return": "26%"
+    },
+    {
+        "Player": "Mangala",
+        "Predicted Points": "2.5",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "0%",
+        "Assist Odds": "8%",
+        "Goal Odds": "8%",
+        "Anytime Return": "15%"
+    },
+    {
+        "Player": "McNeil",
+        "Predicted Points": "1.1",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "2%",
+        "Assist Odds": "14%",
+        "Goal Odds": "16%",
+        "Anytime Return": "28%"
+    },
+    {
+        "Player": "Mykolenko",
+        "Predicted Points": "1.9",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "6%",
+        "Assist Odds": "6%",
+        "Goal Odds": "5%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Ndiaye",
+        "Predicted Points": "2.6",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "1%",
+        "Assist Odds": "12%",
+        "Goal Odds": "18%",
+        "Anytime Return": "28%"
+    },
+    {
+        "Player": "O'Brien",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Patterson",
+        "Predicted Points": "0.6",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "0%",
+        "Assist Odds": "3%",
+        "Goal Odds": "5%",
+        "Anytime Return": "8%"
+    },
+    {
+        "Player": "Pickford",
+        "Predicted Points": "2.9",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "13%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Tarkowski",
+        "Predicted Points": "2.0",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "2%",
+        "Assist Odds": "5%",
+        "Goal Odds": "8%",
+        "Anytime Return": "13%"
+    },
+    {
+        "Player": "Y. Chermiti",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Young",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Bournemouth (a)",
+        "Pick %": "4%",
+        "Assist Odds": "7%",
+        "Goal Odds": "6%",
+        "Anytime Return": "13%"
+    },
+    {
+        "Player": "Adama",
+        "Predicted Points": "2.2",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "2%",
+        "Assist Odds": "25%",
+        "Goal Odds": "28%",
+        "Anytime Return": "46%"
+    },
+    {
+        "Player": "Andersen",
+        "Predicted Points": "3.4",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "4%",
+        "Assist Odds": "7%",
+        "Goal Odds": "9%",
+        "Anytime Return": "15%"
+    },
+    {
+        "Player": "Andreas",
+        "Predicted Points": "4.4",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "1%",
+        "Assist Odds": "30%",
+        "Goal Odds": "27%",
+        "Anytime Return": "49%"
+    },
+    {
+        "Player": "Bassey",
+        "Predicted Points": "3.0",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "0%",
+        "Assist Odds": "7%",
+        "Goal Odds": "9%",
+        "Anytime Return": "14%"
+    },
+    {
+        "Player": "Benda",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Berge",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "0%",
+        "Assist Odds": "12%",
+        "Goal Odds": "16%",
+        "Anytime Return": "25%"
+    },
+    {
+        "Player": "Cairney",
+        "Predicted Points": "1.3",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "0%",
+        "Assist Odds": "17%",
+        "Goal Odds": "19%",
+        "Anytime Return": "33%"
+    },
+    {
+        "Player": "Castagne",
+        "Predicted Points": "4.0",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "2%",
+        "Assist Odds": "11%",
+        "Goal Odds": "8%",
+        "Anytime Return": "18%"
+    },
+    {
+        "Player": "Diop",
+        "Predicted Points": "3.3",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "8%",
+        "Anytime Return": "13%"
+    },
+    {
+        "Player": "Godo",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Iwobi",
+        "Predicted Points": "4.5",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "8%",
+        "Assist Odds": "21%",
+        "Goal Odds": "25%",
+        "Anytime Return": "41%"
+    },
+    {
+        "Player": "J.Cuenca",
+        "Predicted Points": "0.4",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "0%",
+        "Assist Odds": "7%",
+        "Goal Odds": "9%",
+        "Anytime Return": "16%"
+    },
+    {
+        "Player": "King",
+        "Predicted Points": "0.7",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "0%",
+        "Assist Odds": "11%",
+        "Goal Odds": "16%",
+        "Anytime Return": "25%"
+    },
+    {
+        "Player": "Leno",
+        "Predicted Points": "4.0",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "3%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Lukic",
+        "Predicted Points": "3.0",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "0%",
+        "Assist Odds": "10%",
+        "Goal Odds": "16%",
+        "Anytime Return": "24%"
+    },
+    {
+        "Player": "Muniz",
+        "Predicted Points": "1.5",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "2%",
+        "Assist Odds": "17%",
+        "Goal Odds": "36%",
+        "Anytime Return": "47%"
+    },
+    {
+        "Player": "Nelson",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Raul",
+        "Predicted Points": "3.9",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "6%",
+        "Assist Odds": "21%",
+        "Goal Odds": "42%",
+        "Anytime Return": "54%"
+    },
+    {
+        "Player": "Reed",
+        "Predicted Points": "0.4",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "0%",
+        "Assist Odds": "11%",
+        "Goal Odds": "14%",
+        "Anytime Return": "24%"
+    },
+    {
+        "Player": "Robinson",
+        "Predicted Points": "4.1",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "24%",
+        "Assist Odds": "15%",
+        "Goal Odds": "8%",
+        "Anytime Return": "21%"
+    },
+    {
+        "Player": "Sessegnon",
+        "Predicted Points": "0.5",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "0%",
+        "Assist Odds": "16%",
+        "Goal Odds": "18%",
+        "Anytime Return": "31%"
+    },
+    {
+        "Player": "Smith Rowe",
+        "Predicted Points": "2.7",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "11%",
+        "Assist Odds": "25%",
+        "Goal Odds": "29%",
+        "Anytime Return": "46%"
+    },
+    {
+        "Player": "Tete",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Vinicius",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Wilson",
+        "Predicted Points": "3.9",
+        "Next Fixture": "Ipswich (H)",
+        "Pick %": "1%",
+        "Assist Odds": "26%",
+        "Goal Odds": "29%",
+        "Anytime Return": "47%"
+    },
+    {
+        "Player": "Al-Hamadi",
+        "Predicted Points": "0.3",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "0%",
+        "Assist Odds": "7%",
+        "Goal Odds": "20%",
+        "Anytime Return": "26%"
+    },
+    {
+        "Player": "Broadhead",
+        "Predicted Points": "1.9",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "0%",
+        "Assist Odds": "10%",
+        "Goal Odds": "14%",
+        "Anytime Return": "23%"
+    },
+    {
+        "Player": "Burgess",
+        "Predicted Points": "0.8",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "2%",
+        "Assist Odds": "3%",
+        "Goal Odds": "5%",
+        "Anytime Return": "8%"
+    },
+    {
+        "Player": "Burns",
+        "Predicted Points": "1.5",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "0%",
+        "Assist Odds": "9%",
+        "Goal Odds": "13%",
+        "Anytime Return": "20%"
+    },
+    {
+        "Player": "Cajuste",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "8%",
+        "Anytime Return": "13%"
+    },
+    {
+        "Player": "Chaplin",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "0%",
+        "Assist Odds": "10%",
+        "Goal Odds": "19%",
+        "Anytime Return": "27%"
+    },
+    {
+        "Player": "Davis",
+        "Predicted Points": "2.8",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "2%",
+        "Assist Odds": "10%",
+        "Goal Odds": "6%",
+        "Anytime Return": "16%"
+    },
+    {
+        "Player": "Delap",
+        "Predicted Points": "3.4",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "3%",
+        "Assist Odds": "17%",
+        "Goal Odds": "23%",
+        "Anytime Return": "36%"
+    },
+    {
+        "Player": "Greaves",
+        "Predicted Points": "2.2",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "4%",
+        "Assist Odds": "3%",
+        "Goal Odds": "5%",
+        "Anytime Return": "8%"
+    },
+    {
+        "Player": "H.Clarke",
+        "Predicted Points": "0.3",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "0%",
+        "Assist Odds": "3%",
+        "Goal Odds": "4%",
+        "Anytime Return": "7%"
+    },
+    {
+        "Player": "Hirst",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Hutchinson",
+        "Predicted Points": "3.1",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "0%",
+        "Assist Odds": "13%",
+        "Goal Odds": "16%",
+        "Anytime Return": "26%"
+    },
+    {
+        "Player": "J.Clarke",
+        "Predicted Points": "1.1",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "0%",
+        "Assist Odds": "14%",
+        "Goal Odds": "18%",
+        "Anytime Return": "29%"
+    },
+    {
+        "Player": "Johnson",
+        "Predicted Points": "0.3",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "2%",
+        "Assist Odds": "5%",
+        "Goal Odds": "5%",
+        "Anytime Return": "10%"
+    },
+    {
+        "Player": "Luongo",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Morsy",
+        "Predicted Points": "2.3",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "0%",
+        "Assist Odds": "7%",
+        "Goal Odds": "6%",
+        "Anytime Return": "13%"
+    },
+    {
+        "Player": "Muric",
+        "Predicted Points": "0.3",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "O'Shea",
+        "Predicted Points": "2.6",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "2%",
+        "Assist Odds": "4%",
+        "Goal Odds": "6%",
+        "Anytime Return": "10%"
+    },
+    {
+        "Player": "Ogbene",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Phillips",
+        "Predicted Points": "1.0",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "6%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Slicker",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Szmodics",
+        "Predicted Points": "2.1",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "0%",
+        "Assist Odds": "17%",
+        "Goal Odds": "22%",
+        "Anytime Return": "36%"
+    },
+    {
+        "Player": "Taylor",
+        "Predicted Points": "0.5",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "0%",
+        "Assist Odds": "6%",
+        "Goal Odds": "9%",
+        "Anytime Return": "14%"
+    },
+    {
+        "Player": "Townsend",
+        "Predicted Points": "0.3",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "4%",
+        "Anytime Return": "9%"
+    },
+    {
+        "Player": "Tuanzebe",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "2%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Walton",
+        "Predicted Points": "2.6",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Woolfenden",
+        "Predicted Points": "2.2",
+        "Next Fixture": "Fulham (a)",
+        "Pick %": "1%",
+        "Assist Odds": "4%",
+        "Goal Odds": "5%",
+        "Anytime Return": "9%"
+    },
+    {
+        "Player": "A.Fatawu",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Alves",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "B.Soumare",
+        "Predicted Points": "2.1",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "0%",
+        "Assist Odds": "4%",
+        "Goal Odds": "5%",
+        "Anytime Return": "9%"
+    },
+    {
+        "Player": "Buonanotte",
+        "Predicted Points": "2.3",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "1%",
+        "Assist Odds": "12%",
+        "Goal Odds": "16%",
+        "Anytime Return": "26%"
+    },
+    {
+        "Player": "Choudhury",
+        "Predicted Points": "0.2",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "2%",
+        "Assist Odds": "3%",
+        "Goal Odds": "5%",
+        "Anytime Return": "8%"
+    },
+    {
+        "Player": "Coady",
+        "Predicted Points": "1.0",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "0%",
+        "Assist Odds": "2%",
+        "Goal Odds": "4%",
+        "Anytime Return": "6%"
+    },
+    {
+        "Player": "Daka",
+        "Predicted Points": "1.0",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "1%",
+        "Assist Odds": "7%",
+        "Goal Odds": "20%",
+        "Anytime Return": "26%"
+    },
+    {
+        "Player": "De Cordova-Reid",
+        "Predicted Points": "0.9",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "0%",
+        "Assist Odds": "8%",
+        "Goal Odds": "11%",
+        "Anytime Return": "19%"
+    },
+    {
+        "Player": "Edouard",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "El Khannouss",
+        "Predicted Points": "2.0",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "0%",
+        "Assist Odds": "8%",
+        "Goal Odds": "11%",
+        "Anytime Return": "18%"
+    },
+    {
+        "Player": "Faes",
+        "Predicted Points": "0.1",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "8%",
+        "Assist Odds": "3%",
+        "Goal Odds": "4%",
+        "Anytime Return": "6%"
+    },
+    {
+        "Player": "Golding",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Hermansen",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Iversen",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "J.Ayew",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "0%",
+        "Assist Odds": "9%",
+        "Goal Odds": "13%",
+        "Anytime Return": "21%"
+    },
+    {
+        "Player": "Justin",
+        "Predicted Points": "1.4",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "2%",
+        "Assist Odds": "9%",
+        "Goal Odds": "5%",
+        "Anytime Return": "14%"
+    },
+    {
+        "Player": "Kristiansen",
+        "Predicted Points": "1.2",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "0%",
+        "Assist Odds": "6%",
+        "Goal Odds": "4%",
+        "Anytime Return": "9%"
+    },
+    {
+        "Player": "Mavididi",
+        "Predicted Points": "2.2",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "0%",
+        "Assist Odds": "7%",
+        "Goal Odds": "16%",
+        "Anytime Return": "22%"
+    },
+    {
+        "Player": "McAteer",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "0%",
+        "Assist Odds": "9%",
+        "Goal Odds": "13%",
+        "Anytime Return": "20%"
+    },
+    {
+        "Player": "Ndidi",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Okoli",
+        "Predicted Points": "0.4",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "1%",
+        "Assist Odds": "3%",
+        "Goal Odds": "4%",
+        "Anytime Return": "7%"
+    },
+    {
+        "Player": "Ricardo",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Skipp",
+        "Predicted Points": "0.5",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "6%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Stolarczyk",
+        "Predicted Points": "2.3",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Thomas",
+        "Predicted Points": "0.3",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "2%",
+        "Assist Odds": "4%",
+        "Goal Odds": "4%",
+        "Anytime Return": "8%"
+    },
+    {
+        "Player": "Vardy",
+        "Predicted Points": "2.5",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "7%",
+        "Assist Odds": "9%",
+        "Goal Odds": "23%",
+        "Anytime Return": "30%"
+    },
+    {
+        "Player": "Vestergaard",
+        "Predicted Points": "1.1",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "2%",
+        "Assist Odds": "3%",
+        "Goal Odds": "5%",
+        "Anytime Return": "8%"
+    },
+    {
+        "Player": "Ward",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "2%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Winks",
+        "Predicted Points": "2.0",
+        "Next Fixture": "Aston Villa (a)",
+        "Pick %": "6%",
+        "Assist Odds": "6%",
+        "Goal Odds": "7%",
+        "Anytime Return": "12%"
+    },
+    {
+        "Player": "A.Becker",
+        "Predicted Points": "4.0",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "7%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Alexander-Arnold",
+        "Predicted Points": "5.2",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "26%",
+        "Assist Odds": "28%",
+        "Goal Odds": "14%",
+        "Anytime Return": "39%"
+    },
+    {
+        "Player": "Bradley",
+        "Predicted Points": "0.5",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "0%",
+        "Assist Odds": "18%",
+        "Goal Odds": "9%",
+        "Anytime Return": "26%"
+    },
+    {
+        "Player": "Chiesa",
+        "Predicted Points": "0.7",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "0%",
+        "Assist Odds": "29%",
+        "Goal Odds": "38%",
+        "Anytime Return": "56%"
+    },
+    {
+        "Player": "Darwin",
+        "Predicted Points": "1.3",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "2%",
+        "Assist Odds": "21%",
+        "Goal Odds": "51%",
+        "Anytime Return": "61%"
+    },
+    {
+        "Player": "Diogo J.",
+        "Predicted Points": "2.8",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "3%",
+        "Assist Odds": "21%",
+        "Goal Odds": "45%",
+        "Anytime Return": "56%"
+    },
+    {
+        "Player": "Elliott",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Endo",
+        "Predicted Points": "0.7",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "0%",
+        "Assist Odds": "10%",
+        "Goal Odds": "13%",
+        "Anytime Return": "22%"
+    },
+    {
+        "Player": "Gakpo",
+        "Predicted Points": "3.2",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "6%",
+        "Assist Odds": "20%",
+        "Goal Odds": "40%",
+        "Anytime Return": "52%"
+    },
+    {
+        "Player": "Gomez",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "2%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Gravenberch",
+        "Predicted Points": "3.5",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "1%",
+        "Assist Odds": "15%",
+        "Goal Odds": "17%",
+        "Anytime Return": "29%"
+    },
+    {
+        "Player": "Jones",
+        "Predicted Points": "3.0",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "1%",
+        "Assist Odds": "19%",
+        "Goal Odds": "25%",
+        "Anytime Return": "40%"
+    },
+    {
+        "Player": "Kelleher",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "2%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Konate",
+        "Predicted Points": "0.7",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "3%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Luis Diaz",
+        "Predicted Points": "5.3",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "22%",
+        "Assist Odds": "21%",
+        "Goal Odds": "41%",
+        "Anytime Return": "53%"
+    },
+    {
+        "Player": "M.Salah",
+        "Predicted Points": "7.4",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "69%",
+        "Assist Odds": "33%",
+        "Goal Odds": "53%",
+        "Anytime Return": "68%"
+    },
+    {
+        "Player": "Mac Allister",
+        "Predicted Points": "4.2",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "2%",
+        "Assist Odds": "18%",
+        "Goal Odds": "22%",
+        "Anytime Return": "36%"
+    },
+    {
+        "Player": "McConnell",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Morton",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Quansah",
+        "Predicted Points": "3.0",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "2%",
+        "Assist Odds": "6%",
+        "Goal Odds": "9%",
+        "Anytime Return": "15%"
+    },
+    {
+        "Player": "Robertson",
+        "Predicted Points": "3.8",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "5%",
+        "Assist Odds": "17%",
+        "Goal Odds": "9%",
+        "Anytime Return": "25%"
+    },
+    {
+        "Player": "Szoboszlai",
+        "Predicted Points": "3.0",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "2%",
+        "Assist Odds": "21%",
+        "Goal Odds": "25%",
+        "Anytime Return": "41%"
+    },
+    {
+        "Player": "Tsimikas",
+        "Predicted Points": "1.0",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "0%",
+        "Assist Odds": "19%",
+        "Goal Odds": "8%",
+        "Anytime Return": "25%"
+    },
+    {
+        "Player": "Virgil",
+        "Predicted Points": "4.3",
+        "Next Fixture": "Man Utd (H)",
+        "Pick %": "24%",
+        "Assist Odds": "9%",
+        "Goal Odds": "14%",
+        "Anytime Return": "22%"
+    },
+    {
+        "Player": "Akanji",
+        "Predicted Points": "3.4",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "3%",
+        "Assist Odds": "5%",
+        "Goal Odds": "9%",
+        "Anytime Return": "13%"
+    },
+    {
+        "Player": "Ake",
+        "Predicted Points": "3.6",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "1%",
+        "Assist Odds": "6%",
+        "Goal Odds": "9%",
+        "Anytime Return": "15%"
+    },
+    {
+        "Player": "Bernardo",
+        "Predicted Points": "3.8",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "4%",
+        "Assist Odds": "19%",
+        "Goal Odds": "22%",
+        "Anytime Return": "37%"
+    },
+    {
+        "Player": "Bobb",
+        "Predicted Points": "0.0",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Carson",
+        "Predicted Points": "0.0",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "De Bruyne",
+        "Predicted Points": "4.1",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "4%",
+        "Assist Odds": "31%",
+        "Goal Odds": "30%",
+        "Anytime Return": "52%"
+    },
+    {
+        "Player": "Doku",
+        "Predicted Points": "2.0",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "2%",
+        "Assist Odds": "20%",
+        "Goal Odds": "25%",
+        "Anytime Return": "40%"
+    },
+    {
+        "Player": "Ederson M.",
+        "Predicted Points": "1.7",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "5%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Foden",
+        "Predicted Points": "3.9",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "6%",
+        "Assist Odds": "22%",
+        "Goal Odds": "31%",
+        "Anytime Return": "46%"
+    },
+    {
+        "Player": "Grealish",
+        "Predicted Points": "1.9",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "0%",
+        "Assist Odds": "20%",
+        "Goal Odds": "22%",
+        "Anytime Return": "38%"
+    },
+    {
+        "Player": "Gundogan",
+        "Predicted Points": "2.5",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "0%",
+        "Assist Odds": "15%",
+        "Goal Odds": "18%",
+        "Anytime Return": "30%"
+    },
+    {
+        "Player": "Gvardiol",
+        "Predicted Points": "4.3",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "21%",
+        "Assist Odds": "10%",
+        "Goal Odds": "13%",
+        "Anytime Return": "22%"
+    },
+    {
+        "Player": "Haaland",
+        "Predicted Points": "7.4",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "31%",
+        "Assist Odds": "34%",
+        "Goal Odds": "64%",
+        "Anytime Return": "76%"
+    },
+    {
+        "Player": "Kovacic",
+        "Predicted Points": "3.0",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "1%",
+        "Assist Odds": "12%",
+        "Goal Odds": "14%",
+        "Anytime Return": "25%"
+    },
+    {
+        "Player": "Lewis",
+        "Predicted Points": "3.5",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "7%",
+        "Assist Odds": "7%",
+        "Goal Odds": "9%",
+        "Anytime Return": "15%"
+    },
+    {
+        "Player": "Matheus N.",
+        "Predicted Points": "0.0",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "0%",
+        "Assist Odds": "17%",
+        "Goal Odds": "16%",
+        "Anytime Return": "30%"
+    },
+    {
+        "Player": "McAtee",
+        "Predicted Points": "1.0",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "0%",
+        "Assist Odds": "18%",
+        "Goal Odds": "25%",
+        "Anytime Return": "39%"
+    },
+    {
+        "Player": "O'Reilly",
+        "Predicted Points": "0.0",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Ortega Moreno",
+        "Predicted Points": "2.6",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Rodrigo",
+        "Predicted Points": "0.0",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Ruben",
+        "Predicted Points": "0.0",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "2%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Savio",
+        "Predicted Points": "2.6",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "1%",
+        "Assist Odds": "26%",
+        "Goal Odds": "26%",
+        "Anytime Return": "45%"
+    },
+    {
+        "Player": "Stones",
+        "Predicted Points": "0.0",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Walker",
+        "Predicted Points": "2.1",
+        "Next Fixture": "West Ham (H)",
+        "Pick %": "3%",
+        "Assist Odds": "6%",
+        "Goal Odds": "6%",
+        "Anytime Return": "12%"
+    },
+    {
+        "Player": "Amad",
+        "Predicted Points": "2.1",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "16%",
+        "Assist Odds": "9%",
+        "Goal Odds": "13%",
+        "Anytime Return": "20%"
+    },
+    {
+        "Player": "Antony",
+        "Predicted Points": "0.3",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "0%",
+        "Assist Odds": "9%",
+        "Goal Odds": "13%",
+        "Anytime Return": "20%"
+    },
+    {
+        "Player": "B.Fernandes",
+        "Predicted Points": "2.9",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "9%",
+        "Assist Odds": "11%",
+        "Goal Odds": "16%",
+        "Anytime Return": "25%"
+    },
+    {
+        "Player": "Bayindir",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Casemiro",
+        "Predicted Points": "0.8",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "0%",
+        "Assist Odds": "6%",
+        "Goal Odds": "8%",
+        "Anytime Return": "14%"
+    },
+    {
+        "Player": "Collyer",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Dalot",
+        "Predicted Points": "1.3",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "8%",
+        "Assist Odds": "6%",
+        "Goal Odds": "5%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "De Ligt",
+        "Predicted Points": "1.0",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "4%",
+        "Assist Odds": "3%",
+        "Goal Odds": "5%",
+        "Anytime Return": "8%"
+    },
+    {
+        "Player": "Eriksen",
+        "Predicted Points": "0.5",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "0%",
+        "Assist Odds": "7%",
+        "Goal Odds": "9%",
+        "Anytime Return": "16%"
+    },
+    {
+        "Player": "Evans",
+        "Predicted Points": "0.1",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "0%",
+        "Assist Odds": "2%",
+        "Goal Odds": "4%",
+        "Anytime Return": "6%"
+    },
+    {
+        "Player": "Garnacho",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "5%",
+        "Assist Odds": "13%",
+        "Goal Odds": "17%",
+        "Anytime Return": "27%"
+    },
+    {
+        "Player": "Heaton",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Hojlund",
+        "Predicted Points": "2.3",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "1%",
+        "Assist Odds": "8%",
+        "Goal Odds": "21%",
+        "Anytime Return": "28%"
+    },
+    {
+        "Player": "Lindelof",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Maguire",
+        "Predicted Points": "1.1",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "0%",
+        "Assist Odds": "4%",
+        "Goal Odds": "5%",
+        "Anytime Return": "9%"
+    },
+    {
+        "Player": "Mainoo",
+        "Predicted Points": "2.0",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "2%",
+        "Assist Odds": "5%",
+        "Goal Odds": "6%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Malacia",
+        "Predicted Points": "0.4",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "0%",
+        "Assist Odds": "2%",
+        "Goal Odds": "4%",
+        "Anytime Return": "6%"
+    },
+    {
+        "Player": "Martinez",
+        "Predicted Points": "1.0",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "4%",
+        "Assist Odds": "3%",
+        "Goal Odds": "4%",
+        "Anytime Return": "7%"
+    },
+    {
+        "Player": "Mazraoui",
+        "Predicted Points": "1.1",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "13%",
+        "Assist Odds": "6%",
+        "Goal Odds": "5%",
+        "Anytime Return": "10%"
+    },
+    {
+        "Player": "Mount",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Onana",
+        "Predicted Points": "2.2",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "8%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Rashford",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "2%",
+        "Assist Odds": "9%",
+        "Goal Odds": "17%",
+        "Anytime Return": "24%"
+    },
+    {
+        "Player": "Shaw",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Ugarte",
+        "Predicted Points": "1.2",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "0%",
+        "Assist Odds": "6%",
+        "Goal Odds": "5%",
+        "Anytime Return": "10%"
+    },
+    {
+        "Player": "Wheatley",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "2%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Yoro",
+        "Predicted Points": "0.6",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "0%",
+        "Assist Odds": "2%",
+        "Goal Odds": "4%",
+        "Anytime Return": "6%"
+    },
+    {
+        "Player": "Zirkzee",
+        "Predicted Points": "1.0",
+        "Next Fixture": "Liverpool (a)",
+        "Pick %": "2%",
+        "Assist Odds": "8%",
+        "Goal Odds": "20%",
+        "Anytime Return": "27%"
+    },
+    {
+        "Player": "A.Murphy",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Almiron",
+        "Predicted Points": "0.4",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "0%",
+        "Assist Odds": "14%",
+        "Goal Odds": "20%",
+        "Anytime Return": "32%"
+    },
+    {
+        "Player": "Barnes",
+        "Predicted Points": "2.1",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "2%",
+        "Assist Odds": "22%",
+        "Goal Odds": "31%",
+        "Anytime Return": "46%"
+    },
+    {
+        "Player": "Botman",
+        "Predicted Points": "0.5",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "0%",
+        "Assist Odds": "6%",
+        "Goal Odds": "7%",
+        "Anytime Return": "13%"
+    },
+    {
+        "Player": "Bruno G.",
+        "Predicted Points": "3.1",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "2%",
+        "Assist Odds": "13%",
+        "Goal Odds": "14%",
+        "Anytime Return": "25%"
+    },
+    {
+        "Player": "Burn",
+        "Predicted Points": "2.1",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "7%",
+        "Assist Odds": "6%",
+        "Goal Odds": "8%",
+        "Anytime Return": "14%"
+    },
+    {
+        "Player": "Dubravka",
+        "Predicted Points": "3.0",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Gordon",
+        "Predicted Points": "4.7",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "14%",
+        "Assist Odds": "21%",
+        "Goal Odds": "32%",
+        "Anytime Return": "46%"
+    },
+    {
+        "Player": "Hall",
+        "Predicted Points": "2.4",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "15%",
+        "Assist Odds": "9%",
+        "Goal Odds": "9%",
+        "Anytime Return": "17%"
+    },
+    {
+        "Player": "Hayden",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Isak",
+        "Predicted Points": "5.4",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "49%",
+        "Assist Odds": "22%",
+        "Goal Odds": "49%",
+        "Anytime Return": "60%"
+    },
+    {
+        "Player": "J.Murphy",
+        "Predicted Points": "3.1",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "4%",
+        "Assist Odds": "19%",
+        "Goal Odds": "22%",
+        "Anytime Return": "37%"
+    },
+    {
+        "Player": "Joelinton",
+        "Predicted Points": "3.4",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "1%",
+        "Assist Odds": "17%",
+        "Goal Odds": "22%",
+        "Anytime Return": "36%"
+    },
+    {
+        "Player": "Kelly",
+        "Predicted Points": "2.0",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "6%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Krafth",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Kuol",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Lascelles",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Livramento",
+        "Predicted Points": "1.2",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "2%",
+        "Assist Odds": "5%",
+        "Goal Odds": "4%",
+        "Anytime Return": "9%"
+    },
+    {
+        "Player": "Longstaff",
+        "Predicted Points": "0.6",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "0%",
+        "Assist Odds": "9%",
+        "Goal Odds": "14%",
+        "Anytime Return": "22%"
+    },
+    {
+        "Player": "Miley",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Odysseas",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Osula",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Pivas",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Pope",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "4%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Ruddy",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Schar",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "2%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Targett",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Tonali",
+        "Predicted Points": "2.6",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "0%",
+        "Assist Odds": "10%",
+        "Goal Odds": "14%",
+        "Anytime Return": "23%"
+    },
+    {
+        "Player": "Trippier",
+        "Predicted Points": "1.3",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "3%",
+        "Assist Odds": "12%",
+        "Goal Odds": "7%",
+        "Anytime Return": "18%"
+    },
+    {
+        "Player": "Willock",
+        "Predicted Points": "1.1",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "0%",
+        "Assist Odds": "12%",
+        "Goal Odds": "17%",
+        "Anytime Return": "27%"
+    },
+    {
+        "Player": "Wilson",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Spurs (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Aina",
+        "Predicted Points": "3.1",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "22%",
+        "Assist Odds": "9%",
+        "Goal Odds": "7%",
+        "Anytime Return": "15%"
+    },
+    {
+        "Player": "Alex Moreno",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Anderson",
+        "Predicted Points": "2.6",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "0%",
+        "Assist Odds": "9%",
+        "Goal Odds": "14%",
+        "Anytime Return": "22%"
+    },
+    {
+        "Player": "Awoniyi",
+        "Predicted Points": "0.4",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "0%",
+        "Assist Odds": "7%",
+        "Goal Odds": "33%",
+        "Anytime Return": "38%"
+    },
+    {
+        "Player": "Boly",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "C.Miguel",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Da Silva Moreira",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Danilo",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Dennis",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Dominguez",
+        "Predicted Points": "1.6",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "0%",
+        "Assist Odds": "10%",
+        "Goal Odds": "12%",
+        "Anytime Return": "20%"
+    },
+    {
+        "Player": "Elanga",
+        "Predicted Points": "3.2",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "3%",
+        "Assist Odds": "17%",
+        "Goal Odds": "23%",
+        "Anytime Return": "36%"
+    },
+    {
+        "Player": "Gibbs-White",
+        "Predicted Points": "4.2",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "3%",
+        "Assist Odds": "20%",
+        "Goal Odds": "23%",
+        "Anytime Return": "38%"
+    },
+    {
+        "Player": "Hudson-Odoi",
+        "Predicted Points": "3.2",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "2%",
+        "Assist Odds": "17%",
+        "Goal Odds": "23%",
+        "Anytime Return": "36%"
+    },
+    {
+        "Player": "Jota Silva",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "0%",
+        "Assist Odds": "17%",
+        "Goal Odds": "22%",
+        "Anytime Return": "36%"
+    },
+    {
+        "Player": "Milenkovic",
+        "Predicted Points": "2.9",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "6%",
+        "Assist Odds": "5%",
+        "Goal Odds": "7%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Morato",
+        "Predicted Points": "1.7",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "8%",
+        "Anytime Return": "13%"
+    },
+    {
+        "Player": "Murillo",
+        "Predicted Points": "2.0",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "3%",
+        "Assist Odds": "5%",
+        "Goal Odds": "8%",
+        "Anytime Return": "13%"
+    },
+    {
+        "Player": "N.Williams",
+        "Predicted Points": "3.1",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "1%",
+        "Assist Odds": "9%",
+        "Goal Odds": "8%",
+        "Anytime Return": "16%"
+    },
+    {
+        "Player": "Omobamidele",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Sangare",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Sels",
+        "Predicted Points": "3.6",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "11%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Sosa",
+        "Predicted Points": "1.0",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "0%",
+        "Assist Odds": "18%",
+        "Goal Odds": "25%",
+        "Anytime Return": "39%"
+    },
+    {
+        "Player": "Toffolo",
+        "Predicted Points": "0.7",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "0%",
+        "Assist Odds": "9%",
+        "Goal Odds": "7%",
+        "Anytime Return": "16%"
+    },
+    {
+        "Player": "Ui-jo",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Ward-Prowse",
+        "Predicted Points": "0.8",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "0%",
+        "Assist Odds": "16%",
+        "Goal Odds": "16%",
+        "Anytime Return": "29%"
+    },
+    {
+        "Player": "Wood",
+        "Predicted Points": "3.9",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "27%",
+        "Assist Odds": "8%",
+        "Goal Odds": "35%",
+        "Anytime Return": "40%"
+    },
+    {
+        "Player": "Yates",
+        "Predicted Points": "1.9",
+        "Next Fixture": "Wolves (a)",
+        "Pick %": "0%",
+        "Assist Odds": "8%",
+        "Goal Odds": "12%",
+        "Anytime Return": "19%"
+    },
+    {
+        "Player": "Amo-Ameyaw",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Archer",
+        "Predicted Points": "1.6",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "2%",
+        "Assist Odds": "14%",
+        "Goal Odds": "28%",
+        "Anytime Return": "38%"
+    },
+    {
+        "Player": "Aribo",
+        "Predicted Points": "2.9",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "11%",
+        "Goal Odds": "17%",
+        "Anytime Return": "26%"
+    },
+    {
+        "Player": "Armstrong",
+        "Predicted Points": "3.5",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "1%",
+        "Assist Odds": "15%",
+        "Goal Odds": "31%",
+        "Anytime Return": "42%"
+    },
+    {
+        "Player": "Bazunu",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Bednarek",
+        "Predicted Points": "2.2",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "3%",
+        "Assist Odds": "3%",
+        "Goal Odds": "4%",
+        "Anytime Return": "7%"
+    },
+    {
+        "Player": "Bella-Kotchap",
+        "Predicted Points": "0.5",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "3%",
+        "Goal Odds": "4%",
+        "Anytime Return": "7%"
+    },
+    {
+        "Player": "Bree",
+        "Predicted Points": "0.8",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "5%",
+        "Anytime Return": "9%"
+    },
+    {
+        "Player": "Brereton Diaz",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Cornet",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Dibling",
+        "Predicted Points": "2.9",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "2%",
+        "Assist Odds": "12%",
+        "Goal Odds": "17%",
+        "Anytime Return": "27%"
+    },
+    {
+        "Player": "Downes",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "11%",
+        "Goal Odds": "10%",
+        "Anytime Return": "20%"
+    },
+    {
+        "Player": "Edozie",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Edwards",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Fraser",
+        "Predicted Points": "0.8",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "13%",
+        "Goal Odds": "18%",
+        "Anytime Return": "29%"
+    },
+    {
+        "Player": "Harwood-Bellis",
+        "Predicted Points": "2.6",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "8%",
+        "Assist Odds": "6%",
+        "Goal Odds": "7%",
+        "Anytime Return": "12%"
+    },
+    {
+        "Player": "Kamaldeen",
+        "Predicted Points": "0.8",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "13%",
+        "Goal Odds": "18%",
+        "Anytime Return": "29%"
+    },
+    {
+        "Player": "Lallana",
+        "Predicted Points": "0.6",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "8%",
+        "Goal Odds": "12%",
+        "Anytime Return": "19%"
+    },
+    {
+        "Player": "Larios",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Lumley",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "M.Fernandes",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Manning",
+        "Predicted Points": "0.8",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "7%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "McCarthy",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Onuachu",
+        "Predicted Points": "2.8",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "23%",
+        "Goal Odds": "31%",
+        "Anytime Return": "47%"
+    },
+    {
+        "Player": "Ramsdale",
+        "Predicted Points": "3.2",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Smallbone",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Stephens",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Stewart",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "2%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Sugawara",
+        "Predicted Points": "2.2",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "9%",
+        "Goal Odds": "10%",
+        "Anytime Return": "18%"
+    },
+    {
+        "Player": "Taylor",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "5%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Ugochukwu",
+        "Predicted Points": "1.1",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "6%",
+        "Goal Odds": "9%",
+        "Anytime Return": "15%"
+    },
+    {
+        "Player": "Walker-Peters",
+        "Predicted Points": "2.8",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "0%",
+        "Assist Odds": "10%",
+        "Goal Odds": "9%",
+        "Anytime Return": "18%"
+    },
+    {
+        "Player": "Wood",
+        "Predicted Points": "2.0",
+        "Next Fixture": "Brentford (H)",
+        "Pick %": "1%",
+        "Assist Odds": "3%",
+        "Goal Odds": "5%",
+        "Anytime Return": "8%"
+    },
+    {
+        "Player": "Austin",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Bentancur",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Bergvall",
+        "Predicted Points": "1.3",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "1%",
+        "Assist Odds": "10%",
+        "Goal Odds": "14%",
+        "Anytime Return": "23%"
+    },
+    {
+        "Player": "Bissouma",
+        "Predicted Points": "2.2",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "0%",
+        "Assist Odds": "7%",
+        "Goal Odds": "9%",
+        "Anytime Return": "15%"
+    },
+    {
+        "Player": "Davies",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Devine",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Dragusin",
+        "Predicted Points": "1.8",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "0%",
+        "Assist Odds": "4%",
+        "Goal Odds": "6%",
+        "Anytime Return": "10%"
+    },
+    {
+        "Player": "Forster",
+        "Predicted Points": "2.7",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Gray",
+        "Predicted Points": "2.1",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "0%",
+        "Assist Odds": "4%",
+        "Goal Odds": "5%",
+        "Anytime Return": "8%"
+    },
+    {
+        "Player": "Johnson",
+        "Predicted Points": "2.3",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "6%",
+        "Assist Odds": "15%",
+        "Goal Odds": "28%",
+        "Anytime Return": "38%"
+    },
+    {
+        "Player": "Kulusevski",
+        "Predicted Points": "4.1",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "7%",
+        "Assist Odds": "19%",
+        "Goal Odds": "25%",
+        "Anytime Return": "39%"
+    },
+    {
+        "Player": "Lankshear",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "2%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Maddison",
+        "Predicted Points": "2.6",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "11%",
+        "Assist Odds": "19%",
+        "Goal Odds": "21%",
+        "Anytime Return": "36%"
+    },
+    {
+        "Player": "Moore",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Odobert",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "P.M.Sarr",
+        "Predicted Points": "2.5",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "0%",
+        "Assist Odds": "11%",
+        "Goal Odds": "14%",
+        "Anytime Return": "23%"
+    },
+    {
+        "Player": "Pedro Porro",
+        "Predicted Points": "2.4",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "25%",
+        "Assist Odds": "10%",
+        "Goal Odds": "11%",
+        "Anytime Return": "20%"
+    },
+    {
+        "Player": "Reguilon",
+        "Predicted Points": "0.4",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "0%",
+        "Assist Odds": "4%",
+        "Goal Odds": "5%",
+        "Anytime Return": "9%"
+    },
+    {
+        "Player": "Richarlison",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Romero",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "4%",
+        "Assist Odds": "6%",
+        "Goal Odds": "9%",
+        "Anytime Return": "15%"
+    },
+    {
+        "Player": "Solanke",
+        "Predicted Points": "4.2",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "10%",
+        "Assist Odds": "12%",
+        "Goal Odds": "36%",
+        "Anytime Return": "44%"
+    },
+    {
+        "Player": "Son",
+        "Predicted Points": "4.6",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "6%",
+        "Assist Odds": "17%",
+        "Goal Odds": "33%",
+        "Anytime Return": "45%"
+    },
+    {
+        "Player": "Spence",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Udogie",
+        "Predicted Points": "1.9",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "2%",
+        "Assist Odds": "7%",
+        "Goal Odds": "5%",
+        "Anytime Return": "12%"
+    },
+    {
+        "Player": "Van de Ven",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "3%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Vicario",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "2%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Werner",
+        "Predicted Points": "0.8",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "0%",
+        "Assist Odds": "11%",
+        "Goal Odds": "23%",
+        "Anytime Return": "32%"
+    },
+    {
+        "Player": "Whiteman",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Newcastle (H)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Alvarez",
+        "Predicted Points": "1.3",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Antonio",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Areola",
+        "Predicted Points": "2.2",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "4%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Bowen",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "6%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "C.Soler",
+        "Predicted Points": "1.7",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "0%",
+        "Assist Odds": "8%",
+        "Goal Odds": "11%",
+        "Anytime Return": "18%"
+    },
+    {
+        "Player": "Casey",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Coufal",
+        "Predicted Points": "0.4",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "3%",
+        "Anytime Return": "8%"
+    },
+    {
+        "Player": "Cresswell",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "2%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Emerson",
+        "Predicted Points": "1.3",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "1%",
+        "Assist Odds": "6%",
+        "Goal Odds": "5%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Fabianski",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "18%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Foderingham",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Fullkrug",
+        "Predicted Points": "2.3",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "1%",
+        "Assist Odds": "16%",
+        "Goal Odds": "22%",
+        "Anytime Return": "35%"
+    },
+    {
+        "Player": "G.Rodriguez",
+        "Predicted Points": "0.7",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "0%",
+        "Assist Odds": "4%",
+        "Goal Odds": "5%",
+        "Anytime Return": "9%"
+    },
+    {
+        "Player": "Ings",
+        "Predicted Points": "1.0",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "1%",
+        "Assist Odds": "10%",
+        "Goal Odds": "21%",
+        "Anytime Return": "29%"
+    },
+    {
+        "Player": "Irving",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Kilman",
+        "Predicted Points": "1.1",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "1%",
+        "Assist Odds": "5%",
+        "Goal Odds": "6%",
+        "Anytime Return": "10%"
+    },
+    {
+        "Player": "Kudus",
+        "Predicted Points": "3.1",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "3%",
+        "Assist Odds": "11%",
+        "Goal Odds": "17%",
+        "Anytime Return": "26%"
+    },
+    {
+        "Player": "L.Guilherme",
+        "Predicted Points": "0.3",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "0%",
+        "Assist Odds": "9%",
+        "Goal Odds": "10%",
+        "Anytime Return": "18%"
+    },
+    {
+        "Player": "L.Paqueta",
+        "Predicted Points": "2.0",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "1%",
+        "Assist Odds": "8%",
+        "Goal Odds": "12%",
+        "Anytime Return": "19%"
+    },
+    {
+        "Player": "Mavropanos",
+        "Predicted Points": "0.7",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Soucek",
+        "Predicted Points": "2.1",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "2%",
+        "Assist Odds": "9%",
+        "Goal Odds": "13%",
+        "Anytime Return": "20%"
+    },
+    {
+        "Player": "Summerville",
+        "Predicted Points": "2.8",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "0%",
+        "Assist Odds": "12%",
+        "Goal Odds": "17%",
+        "Anytime Return": "27%"
+    },
+    {
+        "Player": "Todibo",
+        "Predicted Points": "0.6",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "0%",
+        "Assist Odds": "3%",
+        "Goal Odds": "4%",
+        "Anytime Return": "7%"
+    },
+    {
+        "Player": "Wan-Bissaka",
+        "Predicted Points": "1.1",
+        "Next Fixture": "Man City (a)",
+        "Pick %": "6%",
+        "Assist Odds": "3%",
+        "Goal Odds": "3%",
+        "Anytime Return": "6%"
+    },
+    {
+        "Player": "Ait-Nouri",
+        "Predicted Points": "2.8",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "6%",
+        "Assist Odds": "10%",
+        "Goal Odds": "9%",
+        "Anytime Return": "18%"
+    },
+    {
+        "Player": "Andre",
+        "Predicted Points": "1.0",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "B.Traore",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Bellegarde",
+        "Predicted Points": "1.6",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "10%",
+        "Goal Odds": "14%",
+        "Anytime Return": "22%"
+    },
+    {
+        "Player": "Bentley",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Chiwome",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "2%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Cundle",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Cunha",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "22%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Dawson",
+        "Predicted Points": "2.4",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "4%",
+        "Goal Odds": "7%",
+        "Anytime Return": "11%"
+    },
+    {
+        "Player": "Doherty",
+        "Predicted Points": "2.3",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "6%",
+        "Goal Odds": "7%",
+        "Anytime Return": "12%"
+    },
+    {
+        "Player": "Doyle",
+        "Predicted Points": "1.3",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "10%",
+        "Goal Odds": "13%",
+        "Anytime Return": "21%"
+    },
+    {
+        "Player": "Forbs",
+        "Predicted Points": "0.4",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "13%",
+        "Goal Odds": "18%",
+        "Anytime Return": "29%"
+    },
+    {
+        "Player": "Gonzalez",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Guedes",
+        "Predicted Points": "2.8",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "14%",
+        "Goal Odds": "20%",
+        "Anytime Return": "32%"
+    },
+    {
+        "Player": "Hee Chan",
+        "Predicted Points": "3.7",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "13%",
+        "Goal Odds": "28%",
+        "Anytime Return": "38%"
+    },
+    {
+        "Player": "J.Gomes",
+        "Predicted Points": "2.7",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "9%",
+        "Goal Odds": "11%",
+        "Anytime Return": "19%"
+    },
+    {
+        "Player": "Johnstone",
+        "Predicted Points": "0.3",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Jose Sa",
+        "Predicted Points": "3.0",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "2%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Kalajdzic",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "King",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "2%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Mario Jr.",
+        "Predicted Points": "0.6",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "7%",
+        "Goal Odds": "14%",
+        "Anytime Return": "20%"
+    },
+    {
+        "Player": "Meupiyou",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Mosquera",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "N.Semedo",
+        "Predicted Points": "2.3",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "5%",
+        "Goal Odds": "5%",
+        "Anytime Return": "10%"
+    },
+    {
+        "Player": "Pedro Lima",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "1%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "R.Gomes",
+        "Predicted Points": "1.2",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "S.Bueno",
+        "Predicted Points": "2.3",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "4%",
+        "Goal Odds": "5%",
+        "Anytime Return": "9%"
+    },
+    {
+        "Player": "Sarabia",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    },
+    {
+        "Player": "Strand Larsen",
+        "Predicted Points": "3.4",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "3%",
+        "Assist Odds": "11%",
+        "Goal Odds": "25%",
+        "Anytime Return": "33%"
+    },
+    {
+        "Player": "Toti",
+        "Predicted Points": "0.0",
+        "Next Fixture": "Nott'm Forest (H)",
+        "Pick %": "0%",
+        "Assist Odds": "0%",
+        "Goal Odds": "0%",
+        "Anytime Return": "1%"
+    }
+]

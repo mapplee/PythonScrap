@@ -1,0 +1,1897 @@
+[
+    {
+        "team_name": "Arsenal Predicted Lineup",
+        "players": [
+            {
+                "player": "David Raya",
+                "position": "GK",
+                "starting_percentage": "95%"
+            },
+            {
+                "player": "Riccardo Calafiori",
+                "position": "RB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Myles Lewis-Skelly",
+                "position": "LB",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Gabriel Magalhaes",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "William Saliba",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Thomas Partey",
+                "position": "CM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Martin Odegaard",
+                "position": "CM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Declan Rice",
+                "position": "CM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Leandro Trossard",
+                "position": "RF",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Gabriel Martinelli",
+                "position": "LF",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Kai Havertz",
+                "position": "CF",
+                "starting_percentage": "70%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Oleksandr Zinchenko",
+                "position": "LB",
+                "starting_percentage": "40%"
+            },
+            {
+                "player": "Jakub Kiwior",
+                "position": "CB",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Mikel Merino",
+                "position": "CM",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Jorginho",
+                "position": "CM",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Ethan Nwaneri",
+                "position": "LM",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Gabriel Jesus",
+                "position": "CF",
+                "starting_percentage": "70%"
+            }
+        ]
+    },
+    {
+        "team_name": "Aston Villa Predicted Lineup",
+        "players": [
+            {
+                "player": "Emiliano Martinez",
+                "position": "GK",
+                "starting_percentage": "95%"
+            },
+            {
+                "player": "Matty Cash",
+                "position": "RB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Lucas Digne",
+                "position": "LB",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Ezri Konsa",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Tyrone Mings",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Boubacar Kamara",
+                "position": "DCM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Amadou Onana",
+                "position": "DCM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Youri Tielemans",
+                "position": "ACM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Leon Bailey",
+                "position": "RM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "John McGinn",
+                "position": "LM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Ollie Watkins",
+                "position": "CF",
+                "starting_percentage": "90%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Lamare Bogarde",
+                "position": "RB",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Ian Maatsen",
+                "position": "LB",
+                "starting_percentage": "30%"
+            },
+            {
+                "player": "Kosta Nedeljkovic",
+                "position": "CB",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Ross Barkley",
+                "position": "CM",
+                "starting_percentage": "40%"
+            },
+            {
+                "player": "Jacob Ramsey",
+                "position": "LM",
+                "starting_percentage": "60%"
+            }
+        ]
+    },
+    {
+        "team_name": "Bournemouth Predicted Lineup",
+        "players": [
+            {
+                "player": "Kepa Arrizabalaga",
+                "position": "GK",
+                "starting_percentage": "95%"
+            },
+            {
+                "player": "James Hill",
+                "position": "RB",
+                "starting_percentage": "60%"
+            },
+            {
+                "player": "Milos Kerkez",
+                "position": "LB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Illia Zabarnyi",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Dean Huijsen",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Ryan Christie",
+                "position": "DCM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Lewis Cook",
+                "position": "DCM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Justin Kluivert",
+                "position": "ACM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Antoine Semenyo",
+                "position": "RM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Dango Ouattara",
+                "position": "LM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Evanilson",
+                "position": "CF",
+                "starting_percentage": "80%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Max Aarons",
+                "position": "RB",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Max Kinsey",
+                "position": "CB",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Tyler Adams",
+                "position": "CM",
+                "starting_percentage": "40%"
+            },
+            {
+                "player": "Philip Billing",
+                "position": "CM",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "David Brooks",
+                "position": "LM",
+                "starting_percentage": "30%"
+            },
+            {
+                "player": "Enes Unal",
+                "position": "CF",
+                "starting_percentage": "30%"
+            }
+        ]
+    },
+    {
+        "team_name": "Brentford Predicted Lineup",
+        "players": [
+            {
+                "player": "Mark Flekken",
+                "position": "GK",
+                "starting_percentage": "95%"
+            },
+            {
+                "player": "Mads Roerslev",
+                "position": "RB",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Keane Lewis-Potter",
+                "position": "LB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Sepp van den Berg",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Nathan Collins",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Christian Norgaard",
+                "position": "DCM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Vitaly Janelt",
+                "position": "DCM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Mikkel Damsgaard",
+                "position": "ACM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Bryan Mbeumo",
+                "position": "RM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Kevin Schade",
+                "position": "LM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Yoane Wissa",
+                "position": "CF",
+                "starting_percentage": "90%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Jayden Meghoma",
+                "position": "LB",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Ben Mee",
+                "position": "CB",
+                "starting_percentage": "60%"
+            },
+            {
+                "player": "Yunus Emre Konak",
+                "position": "CM",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Yehor Yarmoliuk",
+                "position": "CM",
+                "starting_percentage": "60%"
+            }
+        ]
+    },
+    {
+        "team_name": "Brighton Predicted Lineup",
+        "players": [
+            {
+                "player": "Bart Verbruggen",
+                "position": "GK",
+                "starting_percentage": "95%"
+            },
+            {
+                "player": "Joel Veltman",
+                "position": "RB",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Pervis Estupinan",
+                "position": "LB",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Jan Paul van Hecke",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Lewis Dunk",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Yasin Ayari",
+                "position": "DCM",
+                "starting_percentage": "60%"
+            },
+            {
+                "player": "Carlos Baleba",
+                "position": "DCM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Brajan Gruda",
+                "position": "RM",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Kaoru Mitoma",
+                "position": "LM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Georginio Rutter",
+                "position": "ACM",
+                "starting_percentage": "60%"
+            },
+            {
+                "player": "Joao Pedro",
+                "position": "CF",
+                "starting_percentage": "90%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Tariq Lamptey",
+                "position": "RB",
+                "starting_percentage": "40%"
+            },
+            {
+                "player": "Igor",
+                "position": "CB",
+                "starting_percentage": "40%"
+            },
+            {
+                "player": "Matt O’Riley",
+                "position": "CM",
+                "starting_percentage": "40%"
+            },
+            {
+                "player": "Mats Wieffer",
+                "position": "CM",
+                "starting_percentage": "30%"
+            },
+            {
+                "player": "Julio Enciso",
+                "position": "CM",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Yankuba Minteh",
+                "position": "RM",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Simon Adingra",
+                "position": "LM",
+                "starting_percentage": "50%"
+            }
+        ]
+    },
+    {
+        "team_name": "Chelsea Predicted Lineup",
+        "players": [
+            {
+                "player": "Robert Sanchez",
+                "position": "GK",
+                "starting_percentage": "95%"
+            },
+            {
+                "player": "Malo Gusto",
+                "position": "RB",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Marc Cucurella",
+                "position": "LB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Tosin Adarabioyo",
+                "position": "CB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Levi Colwill",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Moises Caicedo",
+                "position": "DCM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Enzo Fernandez",
+                "position": "DCM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Cole Palmer",
+                "position": "ACM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Pedro Neto",
+                "position": "RM",
+                "starting_percentage": "60%"
+            },
+            {
+                "player": "Jadon Sancho",
+                "position": "LM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Nicolas Jackson",
+                "position": "CF",
+                "starting_percentage": "60%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Reece James",
+                "position": "RB",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Axel Disasi",
+                "position": "CB",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Romeo Lavia",
+                "position": "CM",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Noni Madueke",
+                "position": "RM",
+                "starting_percentage": "40%"
+            },
+            {
+                "player": "Christopher Nkunku",
+                "position": "CF",
+                "starting_percentage": "40%"
+            },
+            {
+                "player": "Joao Felix",
+                "position": "CF",
+                "starting_percentage": "30%"
+            }
+        ]
+    },
+    {
+        "team_name": "Crystal Palace Predicted Lineup",
+        "players": [
+            {
+                "player": "Dean Henderson",
+                "position": "GK",
+                "starting_percentage": "95%"
+            },
+            {
+                "player": "Daniel Munoz",
+                "position": "RWB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Tyrick Mitchell",
+                "position": "LWB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Chris Richards",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Maxence Lacroix",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Marc Guehi",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Cheick Doucoure",
+                "position": "CM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Jefferson Lerma",
+                "position": "CM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Ismaila Sarr",
+                "position": "RF",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Eberechi Eze",
+                "position": "LF",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Jean Mateta",
+                "position": "CF",
+                "starting_percentage": "80%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Nathaniel Clyne",
+                "position": "RB",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Daichi Kamada",
+                "position": "CM",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Eddie Nketiah",
+                "position": "CF",
+                "starting_percentage": "20%"
+            }
+        ]
+    },
+    {
+        "team_name": "Everton Predicted Lineup",
+        "players": [
+            {
+                "player": "Jordan Pickford",
+                "position": "GK",
+                "starting_percentage": "95%"
+            },
+            {
+                "player": "Ashley Young",
+                "position": "RB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Vitalii Mykolenko",
+                "position": "LB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "James Tarkowski",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Jarrad Branthwaite",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Idrissa Gueye",
+                "position": "CM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Orel Mangala",
+                "position": "CM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Abdoulaye Doucoure",
+                "position": "CM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Jack Harrison",
+                "position": "RM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Iliman Ndiaye",
+                "position": "LM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Dominic Calvert-Lewin",
+                "position": "CF",
+                "starting_percentage": "70%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Nathan Patterson",
+                "position": "RB",
+                "starting_percentage": "30%"
+            },
+            {
+                "player": "Michael Keane",
+                "position": "CB",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Jesper Lindstrom",
+                "position": "CM",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Dwight McNeil",
+                "position": "RM",
+                "starting_percentage": "30%"
+            },
+            {
+                "player": "Beto",
+                "position": "CF",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Armando Broja",
+                "position": "CF",
+                "starting_percentage": "20%"
+            }
+        ]
+    },
+    {
+        "team_name": "Fulham Predicted Lineup",
+        "players": [
+            {
+                "player": "Bernd Leno",
+                "position": "GK",
+                "starting_percentage": "95%"
+            },
+            {
+                "player": "Timothy Castagne",
+                "position": "RB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Antonee Robinson",
+                "position": "LB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Joachim Andersen",
+                "position": "CB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Issa Diop",
+                "position": "CB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Sasa Lukic",
+                "position": "DCM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Andreas Pereira",
+                "position": "DCM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Emile Smith Rowe",
+                "position": "ACM",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Harry Wilson",
+                "position": "RM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Alex Iwobi",
+                "position": "LM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Raul Jimenez",
+                "position": "CF",
+                "starting_percentage": "70%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Ryan Sessegnon",
+                "position": "LB",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Calvin Bassey",
+                "position": "CB",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Jorge Cuenca",
+                "position": "CB",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Harrison Reed",
+                "position": "CM",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Tom Cairney",
+                "position": "CM",
+                "starting_percentage": "30%"
+            },
+            {
+                "player": "Josh King",
+                "position": "CM",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Adama Traore",
+                "position": "RM",
+                "starting_percentage": "40%"
+            },
+            {
+                "player": "Rodrigo Muniz",
+                "position": "CF",
+                "starting_percentage": "30%"
+            }
+        ]
+    },
+    {
+        "team_name": "Ipswich Predicted Lineup",
+        "players": [
+            {
+                "player": "Christian Walton",
+                "position": "GK",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Dara O’Shea",
+                "position": "RB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Leif Davis",
+                "position": "LB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Jacob Greaves",
+                "position": "CB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Luke Woolfenden",
+                "position": "CB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Sam Morsy",
+                "position": "DCM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Jens Cajuste",
+                "position": "DCM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Omari Hutchinson",
+                "position": "ACM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Wes Burns",
+                "position": "RM",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Nathan Broadhead",
+                "position": "LM",
+                "starting_percentage": "60%"
+            },
+            {
+                "player": "Liam Delap",
+                "position": "CF",
+                "starting_percentage": "90%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Arijanet Muric",
+                "position": "GK",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Harry Clarke",
+                "position": "RB",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Ben Johnson",
+                "position": "RB",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Conor Townsend",
+                "position": "LB",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Cameron Burgess",
+                "position": "CB",
+                "starting_percentage": "30%"
+            },
+            {
+                "player": "Kalvin Phillips",
+                "position": "CM",
+                "starting_percentage": "40%"
+            },
+            {
+                "player": "Jack Taylor",
+                "position": "CM",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Sam Szmodics",
+                "position": "LM",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Jack Clark",
+                "position": "LM",
+                "starting_percentage": "30%"
+            },
+            {
+                "player": "Ali Al-Hamadi",
+                "position": "CF",
+                "starting_percentage": "10%"
+            }
+        ]
+    },
+    {
+        "team_name": "Leicester Predicted Lineup",
+        "players": [
+            {
+                "player": "Jakub Stolarczyk",
+                "position": "GK",
+                "starting_percentage": "95%"
+            },
+            {
+                "player": "James Justin",
+                "position": "RB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Victor Kristiansen",
+                "position": "LB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Conor Coady",
+                "position": "CB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Jannik Vestergaard",
+                "position": "CB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Harry Winks",
+                "position": "DCM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Boubakary Soumare",
+                "position": "DCM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Bilal El Khannouss",
+                "position": "ACM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Facundo Buonanotte",
+                "position": "RM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Stephy Mavididi",
+                "position": "LM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Jamie Vardy",
+                "position": "CF",
+                "starting_percentage": "70%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Luke Thomas",
+                "position": "LB",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Wout Faes",
+                "position": "CB",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Caleb Okoli",
+                "position": "CB",
+                "starting_percentage": "30%"
+            },
+            {
+                "player": "Hamza Choudhury",
+                "position": "CM",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Oliver Skipp",
+                "position": "CM",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Jordan Ayew",
+                "position": "RM",
+                "starting_percentage": "60%"
+            },
+            {
+                "player": "Bobby De Cordova-Reid",
+                "position": "RM",
+                "starting_percentage": "30%"
+            },
+            {
+                "player": "Patson Daka",
+                "position": "CF",
+                "starting_percentage": "30%"
+            }
+        ]
+    },
+    {
+        "team_name": "Liverpool Predicted Lineup",
+        "players": [
+            {
+                "player": "Alisson Becker",
+                "position": "GK",
+                "starting_percentage": "95%"
+            },
+            {
+                "player": "Trent Alexander-Arnold",
+                "position": "RB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Andrew Robertson",
+                "position": "LB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Jarell Quansah",
+                "position": "CB",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Virgil van Dijk",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Ryan Gravenberch",
+                "position": "CM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Dominik Szoboszlai",
+                "position": "CM",
+                "starting_percentage": "60%"
+            },
+            {
+                "player": "Alexis Mac Allister",
+                "position": "CM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Mohamed Salah",
+                "position": "RF",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Luis Diaz",
+                "position": "LF",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Cody Gakpo",
+                "position": "CF",
+                "starting_percentage": "60%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Conor Bradley",
+                "position": "RB",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Konstantinos Tsimikas",
+                "position": "LB",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Ibrahima Konate",
+                "position": "CB",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Wataru Endo",
+                "position": "CM",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Curtis Jones",
+                "position": "CM",
+                "starting_percentage": "60%"
+            },
+            {
+                "player": "Federico Chiesa",
+                "position": "RM",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Diogo Jota",
+                "position": "CF",
+                "starting_percentage": "40%"
+            },
+            {
+                "player": "Darwin Nunez",
+                "position": "CF",
+                "starting_percentage": "20%"
+            }
+        ]
+    },
+    {
+        "team_name": "Man City Predicted Lineup",
+        "players": [
+            {
+                "player": "Stefan Ortega",
+                "position": "GK",
+                "starting_percentage": "60%"
+            },
+            {
+                "player": "Rico Lewis",
+                "position": "RB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Josko Gvardiol",
+                "position": "LB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Manuel Akanji",
+                "position": "CB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Nathan Ake",
+                "position": "CB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Mateo Kovacic",
+                "position": "CM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Phil Foden",
+                "position": "CM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Kevin De Bruyne",
+                "position": "CM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Bernardo Silva",
+                "position": "RF",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Savio",
+                "position": "LF",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Erling Haaland",
+                "position": "CF",
+                "starting_percentage": "90%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Ederson Moraes",
+                "position": "GK",
+                "starting_percentage": "40%"
+            },
+            {
+                "player": "Kyle Walker",
+                "position": "RB",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Jahmai Simpson-Pusey",
+                "position": "CB",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "James McAtee",
+                "position": "CM",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Ilkay Gundogan",
+                "position": "CM",
+                "starting_percentage": "60%"
+            },
+            {
+                "player": "Jeremy Doku",
+                "position": "LM",
+                "starting_percentage": "40%"
+            },
+            {
+                "player": "Jack Grealish",
+                "position": "LM",
+                "starting_percentage": "40%"
+            }
+        ]
+    },
+    {
+        "team_name": "Man Utd Predicted Lineup",
+        "players": [
+            {
+                "player": "Andre Onana",
+                "position": "GK",
+                "starting_percentage": "95%"
+            },
+            {
+                "player": "Noussair Mazraoui",
+                "position": "RWB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Diogo Dalot",
+                "position": "LWB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Matthijs de Ligt",
+                "position": "CB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Lisandro Martinez",
+                "position": "CB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Harry Maguire",
+                "position": "CB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Manuel Ugarte",
+                "position": "CM",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Kobbie Mainoo",
+                "position": "CM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Amad Diallo",
+                "position": "RF",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Bruno Fernandes",
+                "position": "LF",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Rasmus Hojlund",
+                "position": "CF",
+                "starting_percentage": "70%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Tyrell Malacia",
+                "position": "LB",
+                "starting_percentage": "30%"
+            },
+            {
+                "player": "Lenny Yoro",
+                "position": "CB",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Jonny Evans",
+                "position": "CB",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Casemiro",
+                "position": "CM",
+                "starting_percentage": "30%"
+            },
+            {
+                "player": "Christian Eriksen",
+                "position": "CM",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Antony",
+                "position": "RM",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Alejandro Garnacho",
+                "position": "LM",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Joshua Zirkzee",
+                "position": "CF",
+                "starting_percentage": "30%"
+            }
+        ]
+    },
+    {
+        "team_name": "Newcastle Predicted Lineup",
+        "players": [
+            {
+                "player": "Martin Dubravka",
+                "position": "GK",
+                "starting_percentage": "95%"
+            },
+            {
+                "player": "Tino Livramento",
+                "position": "RB",
+                "starting_percentage": "60%"
+            },
+            {
+                "player": "Lewis Hall",
+                "position": "LB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Dan Burn",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Lloyd Kelly",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Bruno Guimaraes",
+                "position": "CM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Sandro Tonali",
+                "position": "CM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Joelinton",
+                "position": "CM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Jacob Murphy",
+                "position": "RF",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Anthony Gordon",
+                "position": "LF",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Alexander Isak",
+                "position": "CF",
+                "starting_percentage": "90%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Kieran Trippier",
+                "position": "RB",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Sven Botman",
+                "position": "CB",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Sean Longstaff",
+                "position": "CM",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Joe Willock",
+                "position": "CM",
+                "starting_percentage": "30%"
+            },
+            {
+                "player": "Miguel Almiron",
+                "position": "RM",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Harvey Barnes",
+                "position": "LM",
+                "starting_percentage": "40%"
+            }
+        ]
+    },
+    {
+        "team_name": "Nottingham Forest Predicted Lineup",
+        "players": [
+            {
+                "player": "Matz Sels",
+                "position": "GK",
+                "starting_percentage": "95%"
+            },
+            {
+                "player": "Ola Aina",
+                "position": "RB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Neco Williams",
+                "position": "LB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Nikola Milenkovic",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Murillo",
+                "position": "CB",
+                "starting_percentage": "60%"
+            },
+            {
+                "player": "Ryan Yates",
+                "position": "DCM",
+                "starting_percentage": "60%"
+            },
+            {
+                "player": "Elliot Anderson",
+                "position": "DCM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Morgan Gibbs-White",
+                "position": "ACM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Anthony Elanga",
+                "position": "RM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Callum Hudson-Odoi",
+                "position": "LM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Chris Wood",
+                "position": "CF",
+                "starting_percentage": "90%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Harry Toffolo",
+                "position": "LB",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Morato",
+                "position": "CB",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Nicolas Dominguez",
+                "position": "CM",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "James Ward-Prowse",
+                "position": "CM",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Jota Silva",
+                "position": "RM",
+                "starting_percentage": "40%"
+            },
+            {
+                "player": "Ramon Sosa",
+                "position": "LM",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Taiwo Awoniyi",
+                "position": "CF",
+                "starting_percentage": "10%"
+            }
+        ]
+    },
+    {
+        "team_name": "Southampton Predicted Lineup",
+        "players": [
+            {
+                "player": "Aaron Ramsdale",
+                "position": "GK",
+                "starting_percentage": "95%"
+            },
+            {
+                "player": "Sugawara Yukinari",
+                "position": "RWB",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Kyle Walker-Peters",
+                "position": "LWB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Taylor Harwood-Bellis",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Nathan Wood-Gordon",
+                "position": "CB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Jan Bednarek",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Joe Aribo",
+                "position": "CM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Flynn Downes",
+                "position": "CM",
+                "starting_percentage": "60%"
+            },
+            {
+                "player": "Tyler Dibling",
+                "position": "RF",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Adam Armstrong",
+                "position": "LF",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Paul Onuachu",
+                "position": "CF",
+                "starting_percentage": "60%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "James Bree",
+                "position": "RB",
+                "starting_percentage": "30%"
+            },
+            {
+                "player": "Ryan Manning",
+                "position": "LB",
+                "starting_percentage": "30%"
+            },
+            {
+                "player": "Armel Bella-Kotchap",
+                "position": "CB",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Lesley Ugochukwu",
+                "position": "CM",
+                "starting_percentage": "40%"
+            },
+            {
+                "player": "Adam Lallana",
+                "position": "CM",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Ryan Fraser",
+                "position": "LM",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Kamaldeen Sulemana",
+                "position": "LM",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Cameron Archer",
+                "position": "CF",
+                "starting_percentage": "40%"
+            }
+        ]
+    },
+    {
+        "team_name": "Tottenham Predicted Lineup",
+        "players": [
+            {
+                "player": "Fraser Forster",
+                "position": "GK",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Pedro Porro",
+                "position": "RB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Djed Spence",
+                "position": "LB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Radu Dragusin",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Archie Gray",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Pape Matar Sarr",
+                "position": "DCM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Yves Bissouma",
+                "position": "DCM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "James Maddison",
+                "position": "ACM",
+                "starting_percentage": "60%"
+            },
+            {
+                "player": "Dejan Kulusevski",
+                "position": "RM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Heung Min Son",
+                "position": "LM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Dominic Solanke",
+                "position": "CF",
+                "starting_percentage": "90%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Sergio Reguilon",
+                "position": "LB",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Alfie Dorrington",
+                "position": "CB",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Lucas Bergvall",
+                "position": "CM",
+                "starting_percentage": "40%"
+            },
+            {
+                "player": "Brennan Johnson",
+                "position": "RM",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Timo Werner",
+                "position": "LM",
+                "starting_percentage": "20%"
+            }
+        ]
+    },
+    {
+        "team_name": "West Ham Predicted Lineup",
+        "players": [
+            {
+                "player": "Alphonse Areola",
+                "position": "GK",
+                "starting_percentage": "95%"
+            },
+            {
+                "player": "Aaron Wan-Bissaka",
+                "position": "RB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Emerson",
+                "position": "LB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Konstantinos Mavropanos",
+                "position": "CB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Max Kilman",
+                "position": "CB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Edson Alvarez",
+                "position": "DCM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Tomas Soucek",
+                "position": "DCM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Lucas Paqueta",
+                "position": "ACM",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Mohammed Kudus",
+                "position": "RM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Crysencio Summerville",
+                "position": "LM",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Niclas Fullkrug",
+                "position": "CF",
+                "starting_percentage": "70%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Vladimir Coufal",
+                "position": "RB",
+                "starting_percentage": "30%"
+            },
+            {
+                "player": "Jean-Clair Todibo",
+                "position": "CB",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Guido Rodriguez",
+                "position": "CM",
+                "starting_percentage": "30%"
+            },
+            {
+                "player": "Carlos Soler",
+                "position": "CM",
+                "starting_percentage": "60%"
+            },
+            {
+                "player": "Luis Guilherme",
+                "position": "RM",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Danny Ings",
+                "position": "CF",
+                "starting_percentage": "30%"
+            }
+        ]
+    },
+    {
+        "team_name": "Wolves Predicted Lineup",
+        "players": [
+            {
+                "player": "Josa Sa",
+                "position": "GK",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Nelson Semedo",
+                "position": "RWB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Rayan Ait-Nouri",
+                "position": "LWB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Matt Doherty",
+                "position": "CB",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Santiago Bueno",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Craig Dawson",
+                "position": "CB",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Joao Gomes",
+                "position": "CM",
+                "starting_percentage": "90%"
+            },
+            {
+                "player": "Andre",
+                "position": "CM",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Goncalo Guedes",
+                "position": "RF",
+                "starting_percentage": "70%"
+            },
+            {
+                "player": "Hee-Chan Hwang",
+                "position": "LF",
+                "starting_percentage": "80%"
+            },
+            {
+                "player": "Jorgen Strand Larsen",
+                "position": "CF",
+                "starting_percentage": "90%"
+            }
+        ],
+        "Potential Starters": [
+            {
+                "player": "Sam Johnstone",
+                "position": "GK",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Rodrigo Gomes",
+                "position": "LB",
+                "starting_percentage": "60%"
+            },
+            {
+                "player": "Alfie Pond",
+                "position": "CB",
+                "starting_percentage": "10%"
+            },
+            {
+                "player": "Mario Lemina",
+                "position": "CM",
+                "starting_percentage": "20%"
+            },
+            {
+                "player": "Tommy Doyle",
+                "position": "CM",
+                "starting_percentage": "40%"
+            },
+            {
+                "player": "Jean-Ricner Bellegarde",
+                "position": "RM",
+                "starting_percentage": "50%"
+            },
+            {
+                "player": "Carlos Forbs",
+                "position": "LM",
+                "starting_percentage": "10%"
+            }
+        ]
+    }
+]
